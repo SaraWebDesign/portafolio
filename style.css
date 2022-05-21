@@ -1,4 +1,14 @@
-body{
-    background: #E8DFE0;
-
+.grid{
+    display:grid;
+    grid-template-columns:33% 33% 33%;
+    grid-template-rows:auto 200px ;
+    gap: 4px;
+    
+}
+.grid div{
+    background: #8A9EA7;
+    padding:10px;
+}
+.grid div:hover {
+    border: 2px solid #DAB692;
 }
