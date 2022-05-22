@@ -1,0 +1,25 @@
+
+.subgrid{
+    display: grid;
+    grid-template-columns: 3fr;
+}
+.profilePhoto{
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 2px 2px 10px 1px hsl(203, 16%, 72%);
+}
+
+.profilePhoto img{
+    width: 100%;
+    
+
+
+
+
+}
+
+
+    
